@@ -56,8 +56,10 @@ const Details = () => {
             <img src="./arrowUp.png" alt="" />
           </div>
         </div>
-        <button>Block User</button>
       </div>
+      <button>Block User</button>
+      <br></br>
+      <button className="logout">Logout</button>
     </div>
   );
 };
