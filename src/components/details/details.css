@@ -8,7 +8,6 @@
     align-items: center;
     gap: 15px;
     border-bottom: 1px solid grey;
-    
 
     img {
       width: 100px;
@@ -94,6 +93,7 @@
     }
     &.logout {
       padding: 15px;
+      margin-top: 25px;
       background-color: rgba(65, 65, 216, 0.521);
       color: white;
     }
